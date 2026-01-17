@@ -18,7 +18,7 @@ MCA graduate specializing in Full-Stack Development, Cybersecurity, and Cloud Co
 <img src="https://komarev.com/ghpvc/?username=AmaanAhmad786&label=Profile%20views&color=0e75b6&style=flat" alt="AmaanAhmad786" />
 </p>
 
-- 🌱 I’m currently learning **Advanced Cloud, DevOps & Secure Application Development**
+- 🌱 I’m currently learning **Cybersecurity, Cloud, DevOps & Secure Application Development**
 - 👯 I’m currently working on **React, Node.js, Docker, Kubernetes, AWS and ML-based security projects**
 - 👨‍💻 All of my projects are available at  
   https://github.com/AmaanAhmad786?tab=repositories
