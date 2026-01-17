@@ -12,7 +12,7 @@
 MCA graduate specializing in Full-Stack Development, Cybersecurity, and Cloud Computing.
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
+<img align="right" alt="coding" width="400" src="profile.gif">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=AmaanAhmad786&label=Profile%20views&color=0e75b6&style=flat" alt="AmaanAhmad786" />
