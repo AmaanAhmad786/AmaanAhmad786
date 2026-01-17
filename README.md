@@ -73,8 +73,9 @@ MCA graduate specializing in Full-Stack Development, Cybersecurity, and Cloud Co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaanAhmad786&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmaanAhmad786&show_icons=true&theme=dark&cache_seconds=1800" />
   <img width="320" align="right"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanAhmad786&layout=compact&theme=dark" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanAhmad786&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
+
 
