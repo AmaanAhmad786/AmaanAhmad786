@@ -19,7 +19,7 @@ MCA graduate specializing in Full-Stack Development, Cybersecurity, and Cloud Co
 </p>
 
 - 🌱 I’m currently learning **Cybersecurity, Cloud, DevOps & Secure Application Development**
-- 👯 I’m currently working on **React, Node.js, Docker, Kubernetes, AWS and ML-based security projects**
+- 👯 I’m currently working on **React, Node.js, java, Spring boot, Docker, Kubernetes, AWS and ML-based security projects**
 - 👨‍💻 All of my projects are available at  
   https://github.com/AmaanAhmad786?tab=repositories
 - 📫 How to reach me **amaanahmad330@gmail.com**
