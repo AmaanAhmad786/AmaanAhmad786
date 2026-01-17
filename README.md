@@ -73,20 +73,6 @@ MCA graduate specializing in Full-Stack Development, Cybersecurity, and Cloud Co
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-</p>
-
-<br />
-
-📈 My Github Stats
-<br>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AmaanAhmad786&show_icons=true&locale=en&theme=vision-friendly-dark" />
-
-<img width="320" align="right" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=AmaanAhmad786&layout=compact&theme=vision-friendly-dark" />
-</p>
-
 <!--
 **AmaanAhmad786/AmaanAhmad786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
